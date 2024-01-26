@@ -70,15 +70,17 @@ $ npm start
 
 ## Languages & tools
 
-- [Node](https://nodejs.org/en/)
+- [Node]
 
-- [Express](https://expressjs.com/)
+- [Express]
 
-- [Mongoose](https://mongoosejs.com/)
+- [Mongoose]
 
-- [React](https://reactjs.org/)
+- [React]
 
-- [Webpack](https://webpack.js.org/)
+- [AWS LAMDA]
+
+- [DynamoDB]
 
 
 [you can simply run the frontend and interact with the website because the apis are deployed on aws and database is on dynamoDB]
