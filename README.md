@@ -47,7 +47,7 @@ Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/Nikhilkajota03/task-manger
+$ git clone https://github.com/Nikhilkajota03/task-manger.git
 $ cd project
 $ npm install
 ```
