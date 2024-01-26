@@ -1,0 +1,11 @@
+dynamo db configuration                      [aifaM sedoC]
+
+1) first make a user to talk to the database
+AKIAQT2PZ2X2H35KWXNZ
+JNsPYJ3dZNY2R1sxVI4IrtuGVnHA7DvWLpTiNO10
+
+2)install packages like          npm i @aws-sdk/client-dynamodb   npm i @aws-sdk/lib-dynamodb@3.321.1  [js ---> dynamoDbformat]   npm i cuid 
+
+3) make a file called dynamodbClient.js 
+
+

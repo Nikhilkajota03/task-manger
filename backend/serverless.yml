@@ -1,0 +1,22 @@
+service: daily-task-app-dynamo
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-south-1
+
+functions:
+  hello:
+    handler: app.handler
+    events:
+      - httpApi:
+          path: /
+          method: GET
+      - httpApi:
+          path: /api/v1/{proxy+}
+          method: ANY
+      - httpApi:
+          path: /api/v2/{proxy+}
+          method: ANY
