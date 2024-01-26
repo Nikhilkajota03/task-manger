@@ -1,5 +1,8 @@
 # MERN task-manager
 
+## LIVE LINK 
+     https://daily-tasktodo.netlify.app/
+
 ## Description
 
 The MERN Todo App is an advanced web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with DynamoDB integration, AWS Lambda,
@@ -44,7 +47,7 @@ Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/Nikhilkajota03/task-manger
 $ cd project
 $ npm install
 ```
